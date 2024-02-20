@@ -1,0 +1,65 @@
+section{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    justify-content: center;
+}
+.recuadro{
+    width: 100%;
+    display: inline-flex;
+    overflow: hidden;
+}
+.p1{
+    height: 700px;
+    width: 30%;
+    border: solid black 0.5px;
+    overflow: hidden;
+}
+.imagen{
+    width: 95%;
+    height: 35%;
+    margin:auto;
+    margin-top: 5px;
+    border: solid white 0.5px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.color1{
+    float: left;
+    width: 50%;
+    height: 100%;
+    display: block;
+    background-color: red;
+}
+.color2{
+    float: right;
+    width: 50%;
+    height: 100%;
+    display: block;
+    background-color: blue;
+}
+.contenido{
+    width: 90%;
+    margin: auto;
+}
+h2{
+    font-size: 10px;
+}
+h1{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+}
+.boton1{
+    
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    margin-left: 10px;
+}
+a{
+    margin-top: 25%;
+    text-decoration: none;
+    color: white;
+}
